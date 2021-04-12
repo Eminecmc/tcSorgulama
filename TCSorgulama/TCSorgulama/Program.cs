@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TcKimlikService;
 
 namespace TCSorgulama
 {
@@ -10,6 +11,8 @@ namespace TCSorgulama
     {
         static void Main(string[] args)
         {
+            var client = new TcKimlikService.KPSPublicSoapClient();
+
             string ad, soyad, tc;
             //console ekranından girilmesini istediğimiz ifadeler 
             Console.Write("Ad: ");

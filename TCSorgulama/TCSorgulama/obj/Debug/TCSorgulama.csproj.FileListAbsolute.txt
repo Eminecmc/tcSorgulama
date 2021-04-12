@@ -4,3 +4,6 @@ C:\Users\camcı\Desktop\TCSorgulama\TCSorgulama\bin\Debug\TCSorgulama.pdb
 C:\Users\camcı\Desktop\TCSorgulama\TCSorgulama\obj\Debug\TCSorgulama.csprojResolveAssemblyReference.cache
 C:\Users\camcı\Desktop\TCSorgulama\TCSorgulama\obj\Debug\TCSorgulama.exe
 C:\Users\camcı\Desktop\TCSorgulama\TCSorgulama\obj\Debug\TCSorgulama.pdb
+C:\Users\camcı\Documents\GitHub\tcSorgulama\TCSorgulama\TCSorgulama\bin\Debug\TCSorgulama.exe.config
+C:\Users\camcı\Documents\GitHub\tcSorgulama\TCSorgulama\TCSorgulama\obj\Debug\TCSorgulama.exe
+C:\Users\camcı\Documents\GitHub\tcSorgulama\TCSorgulama\TCSorgulama\obj\Debug\TCSorgulama.pdb
